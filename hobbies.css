@@ -1,0 +1,55 @@
+.title{
+    display: table-cell;
+    ;
+}
+
+.navigation{
+    background-color: #1e3d59;
+    float: right;
+    height: 100%;
+}
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 20px 80px;
+    background-color: #ffc13b;
+    font-size: 20px;
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+ 
+.navigation a:hover{
+    background-color: #ff6e40;
+    color: #f5f0e1;
+}
+
+.content{
+    background-color: #1e3d59;
+    color: #f5f0e1;
+    font-family: monaco;
+}
+
+.inner-header{
+    background-color: #1e3d59;
+    color: #f5f0e1;
+    font-family: monaco;
+}
+
+.leftimg {
+    float:left;
+    margin: 7px 7px 7px 0;
+   }
+
+
+.rightimg {
+    float:right;
+    margin: 7px 7px 7px 0;
+   }
+
